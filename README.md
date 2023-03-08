@@ -1,6 +1,5 @@
 # QUIZ GAME
-![Uploading quizgame1.png…]()
-![Uploading quizgame2.png…]()
+
 
 # ABOUT
 Quiz Game || Answer 10 question and score some points!
